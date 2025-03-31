@@ -1,0 +1,103 @@
+body {
+  font-family: nunito;
+  width: 90%;
+  margin: 0 auto;
+  -webkit-user-select: none;
+  user-select: none;
+  background-color: whitesmoke;
+}
+
+H1 {
+  color: #808000;
+  margin-top: 50px;
+  margin-left: 150px;
+}
+
+p {
+  color: #808000;
+}
+
+#texto {
+  width: 60%;
+  /* position: relative; */
+  /* left: 11%; */
+}
+
+#numero {
+  width: 20%;
+  /* position: relative;
+  left: 6%; */
+}
+
+.cliente {
+  position: relative;
+  left: 2%;
+}
+
+#cliente {
+  width: 20%;
+  position: relative;
+  left: 1%;
+}
+
+#fecha {
+  width: 20%;
+  /* position: relative;
+  left: 8%; */
+}
+
+.finalizacion {
+  position: relative;
+  left: 2%;
+}
+
+#finalizacion {
+  width: 20%;
+  position: relative;
+  left: 1%;
+}
+
+th {
+  color: #808000;
+}
+
+th {
+  background-color: #DAA06D;
+}
+
+.oliva {
+  background-color: #4a5d23;
+  color: #555;
+}
+
+td {
+  border-width: thin;
+  border-style: solid;
+  color: #6c7c59;
+  text-align: center;
+}
+
+table {
+  border-width: thin;
+  border-style: solid;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 5px;
+}
+
+.izq {
+  text-align: left;
+  width: 20%;
+  padding-left: 5px;
+}
+
+label {
+  width: 15em;
+  display: inline-block;
+}
+
+#blanco {
+  border-width: thin;
+  border-style: solid;
+  color: whitesmoke;
+}
